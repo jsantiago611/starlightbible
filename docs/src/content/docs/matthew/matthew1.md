@@ -1,3 +1,7 @@
+---
+title: The Gospel of Matthew
+---
+
 import { Steps } from '@astrojs/starlight/components';
 
 <Steps>
