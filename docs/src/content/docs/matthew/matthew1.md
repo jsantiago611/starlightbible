@@ -2,8 +2,6 @@
 title: The Gospel of Matthew
 ---
 
-import { Steps } from '@astrojs/starlight/components';
-
 <Steps>
 
 1. Import the component into your MDX file:
