@@ -163,6 +163,11 @@ export default defineConfig({
 					},
 					autogenerate: { directory: 'resources' },
 				},
+{
+					label: 'Matthew',
+					badge: 'New',
+					autogenerate: { directory: 'matthew' },
+				},
 			],
 			plugins: process.env.CHECK_LINKS
 				? [
