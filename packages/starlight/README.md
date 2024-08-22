@@ -2,6 +2,8 @@
 
 Starlight is a documentation website framework for [Astro][astro].
 
+https://starlightbible-docs.vercel.app/
+
 ## Documentation
 
 [Read the Starlight docs][docs] (they’re built with Starlight!)
